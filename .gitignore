@@ -1,0 +1,8 @@
+# Bỏ qua kho tài liệu tham khảo cồng kềnh (không commit vào Git)
+repo/
+
+# Bỏ qua các file tạm, cache, scratch
+scratch/
+*.log
+.DS_Store
+Thumbs.db
